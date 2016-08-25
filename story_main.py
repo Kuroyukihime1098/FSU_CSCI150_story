@@ -218,6 +218,7 @@ def rand_quote():
               "'So, it has come to this.'",
               "'My robot lemur assassins should be able to handle this!'",
               "'Does anyone else think that guy looks like the Estonian Prime Minister?'",
+              "'I may be stupid, but I'm not dumb.'",
               "'Can anyone really prove that Harry isn't here right now wearing his invisibility cloak?'"
               ]
 
